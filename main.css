@@ -1,0 +1,26 @@
+body{ 
+    background-color: #0085ad;
+}
+
+div.work {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div.theform {
+    color: black;
+    margin-top: 50px ;
+}
+
+button {
+    margin-top: 20px ;
+}
+
+div.result {
+    display: none;
+}
+
+p {
+    color: rgb(236, 236, 236);
+}
